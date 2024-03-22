@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/ayushsharma7425" target="blank"><img src="https://img.shields.io/twitter/follow/ayushsharma7425?logo=twitter&style=for-the-badge" alt="ayushsharma7425" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science.**
+- 🌱 I’m currently learning **LLD Concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushharmaa](https://github.com/ayushharmaa)
 
-- 💬 Ask me about **React,Python.**
+- 💬 Ask me about **ReactJS,NextJS or Python **
 
 - 📫 You can Reach me at **ayushsharma9216@gmail.com**
 
-- ⚡ Fun fact **I am not Funny ;-) & i love to Sing.**
+- ⚡ Fun fact **I'm that kindof tech freak who enjoys offline games more & aces them!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
