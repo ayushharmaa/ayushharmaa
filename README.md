@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayushsharma7425" target="blank"><img src="https://img.shields.io/twitter/follow/ayushsharma7425?logo=twitter&style=for-the-badge" alt="ayushsharma7425" /></a> </p>
 
-- 🌱 I’m currently learning **LLD Concepts & Spring Boot**
+- 🌱 I’m currently learning **LLD Concepts & AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushharmaa](https://github.com/ayushharmaa)
 
